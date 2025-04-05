@@ -1,26 +1,18 @@
-/******************************************************************************
-
-                            Online C Compiler.
-                Code, Compile, Run and Debug C program online.
-Write your code in this editor and press "Run" button to compile and execute it.
-
-*******************************************************************************/
-
 #include <stdio.h>
 
 int main()
 {
-    char estado;
+    char estado[50];
     int codigo;
-    char nome; 
+    char nome[50]; 
     int populacao;
     float area;
     float pib;
     int turistico;
     
-    char estado2;
+    char estado2[50];
     int codigo2;
-    char nome2; 
+    char nome2[50]; 
     int populacao2;
     float area2;
     float pib2;
